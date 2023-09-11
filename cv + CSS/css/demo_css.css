@@ -1,0 +1,36 @@
+body {background-color : #7A9D54;
+    text-align: center;
+    border: 5px solid #557A46;
+    margin: 0%;
+}
+
+h1 {
+    color: #8C3333;
+}
+
+
+h2 {
+    color : #8C3333;
+    font-family: 'Lobster', cursive;
+}
+h3 {
+    color : #8C3333;
+}
+
+
+
+section  {
+    background-color: #F2EE9D;
+    border: 5px solid #557A46;
+    padding: 0 20px 20px 20px;
+}
+
+hr {
+    border-top: 6px dashed #8C3333;
+}
+footer {
+    background-color: #FECEAB;
+}
+img {
+    padding: 20px;
+}
